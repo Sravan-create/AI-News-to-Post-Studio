@@ -1,9 +1,3 @@
-Perfect — below is a **clean, hiring-manager-grade README.md**, rewritten **exactly to match the deliverables they asked for**, and aligned with **your current implementation (React + Vite + LangChain + Ollama)**.
-
-This is **copy-paste ready**.
-No fluff, no over-claims, very professional.
-
----
 
 ````markdown
 # 🤖 AI News-to-Post Studio
