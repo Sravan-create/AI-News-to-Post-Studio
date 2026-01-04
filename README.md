@@ -183,3 +183,15 @@ The AI always returns **structured output**:
    * Single-user demo flow by design.
 
 ---
+
+Future Improvements
+
+Move RSS fetching and LangChain logic to a backend service.
+
+Add database persistence (SQLite / PostgreSQL).
+
+Integrate real image generation (Stable Diffusion / DALL·E).
+
+Add user authentication and saved history.
+
+Allow switching between local and cloud LLMs.
