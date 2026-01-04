@@ -1,11 +1,5 @@
 # 🤖 AI News-to-Post Studio
 
-> **Transform trending topics into viral social media content in seconds.** > A production-ready React application powered by Local LLMs (Ollama) and LangChain.
-
-![Project Status](https://img.shields.io/badge/Status-Active-success)
-![Tech Stack](https://img.shields.io/badge/Stack-React_|_Vite_|_LangChain-blue)
-![AI Provider](https://img.shields.io/badge/AI-Ollama_(Local)-orange)
-
 ## 📖 Overview
 
 **AI News-to-Post Studio** is a full-stack capable web application designed to streamline the workflow of social media managers. It fetches real-time news articles based on a chosen topic and uses Generative AI to synthesize them into engagement-ready social posts.
