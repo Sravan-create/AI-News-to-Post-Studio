@@ -1,5 +1,7 @@
 
-##### 🤖 AI News-to-Post Studio
+# 🤖 AI News-to-Post Studio
+
+
 ````markdown
 
 > Transform trending topics into social-ready content ideas using AI.  
