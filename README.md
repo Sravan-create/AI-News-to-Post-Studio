@@ -1,6 +1,6 @@
 
+##### 🤖 AI News-to-Post Studio
 ````markdown
-# 🤖 AI News-to-Post Studio
 
 > Transform trending topics into social-ready content ideas using AI.  
 > A lightweight, polished mini full-stack project built as a hiring take-home assignment.
